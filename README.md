@@ -1,2 +1,2 @@
 # notas-atletas
-Curso DEVstart
+Curso DEVstart.
